@@ -1,4 +1,4 @@
-# Projected gradient based alternating least squares NNMF
+# Projected gradients based alternating least squares NNMF
 
 Paper can be found <a href = "https://www.csie.ntu.edu.tw/~cjlin/papers/pgradnmf.pdf">here</a><br/>
 More information on the computational complexity, KKT bounds, convergence and signatures can be found in the docstring.<br/>
